@@ -1,2 +1,2 @@
 # couchbase-classloader
-JVM classloader from Couchbase clusters
+JVM classloader from Couchbase clusters, just as an idea.
